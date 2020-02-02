@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+beautifulsoup4 = "*"
+keyring = ">=10.2,<11"
+requests = "<3,>=2.13.0"
+fs = "*"
+fs-s3fs = "*"
+better-exceptions = "*"
+recommonmark = "*"
+pyyaml = "*"
+
+[requires]
+python_version = "3.6"

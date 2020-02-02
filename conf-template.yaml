@@ -1,0 +1,42 @@
+backups_dir: /home/lcampos/Dropbox/Backups
+
+goodreads:
+  user_id: 3580689
+  api_key: blablablab
+  backup_filename: goodreads_backup.csv
+
+airtable:
+  api_key: blablabla
+  bases:
+      - name: Coisas novas a fazer (Dai & Luís)
+        key: apphu1oCbIWBnMcs0
+        tables:
+          - Long Term
+      - name: Project Ideas
+        key: appccYuPR3ytxh5jP
+        tables:
+          - Ideas
+      - name: Things to Learn About or To Do
+        key: app9nLz55VPvwdHZT
+        tables:
+          - Table 1
+      - name: Companies to Work At?
+        key: appRGHTFSBPkaoO8b
+        tables:
+          - Companies
+      - name: Dai Secret
+        key: appy3ijzlCzVe2QQz
+        tables:
+          - Table 1
+      - name: Scala ToLearn
+        key: appzZ8JjUEZ1aTkJm
+        tables:
+          - Table 1
+      - name: Sítios a ir (Dai & Luís)
+        key: appvm1scs43QI9W7f
+        tables:
+          - Sítios a ir (Dai & Luís)
+      - name: Daisy & Luigi Ideias
+        key: appyoVPyvwNPRCAHB
+        tables:
+          - Daisy & Luigi Ideias
