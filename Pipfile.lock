@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "19a1f476e47b61ed1093d63cc2c9aaebee4b2fe57f309c445abbd4464f69168c"
+            "sha256": "ef504c47ea8487fbd7aaed57250d93b3569ede7354490289a2813f101343f7d9"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,13 +16,13 @@
         ]
     },
     "default": {
-        "airtable": {
+        "airtable-python-wrapper": {
             "hashes": [
-                "sha256:d653e1b3b92297e3f0cc4226215d43d7fa99c72f38918e9371e445abf0baa70c",
-                "sha256:fb667e55da3af1341e0f2946014cc29e7d0613e69f3ee20528051c4075aee75c"
+                "sha256:7f0517aeb13be1fea5aa65cabf02d479b9788884230f462e464d47c8e64dfb33",
+                "sha256:fad5bf627b0a316f63c7df5e62bc317fbcf53fcb43e4743be5a5f6e068456d55"
             ],
             "index": "pypi",
-            "version": "==0.4.8"
+            "version": "==0.15.1"
         },
         "alabaster": {
             "hashes": [

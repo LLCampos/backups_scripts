@@ -14,7 +14,7 @@ fs-s3fs = "*"
 better-exceptions = "*"
 recommonmark = "*"
 pyyaml = "*"
-airtable = "*"
+airtable-python-wrapper = "*"
 
 [requires]
 python_version = "3.8"
